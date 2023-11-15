@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Творческий Кластер',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://creative-cluster.vercel.app/',
   author: 'Ксения Козлова',
 
   // open graph metadata (optional)
